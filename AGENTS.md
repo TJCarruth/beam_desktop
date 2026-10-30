@@ -1,1 +1,1 @@
-    - After each request, add an entry to prompts.md: what I asked, what you changed, and whether it worked.
+- After each request, add an entry to prompts.md: what I asked, what you changed, and whether it worked. Follow the format shown in prompts.md and keep entries in chronological order.
